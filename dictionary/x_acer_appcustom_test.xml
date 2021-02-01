@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test" max_length="40" name="x_acer_appcustom_test" type="collection">
+        <element label="Col1" max_length="40" name="col1" type="string"/>
+        <element label="Col2" max_length="40" name="col2" type="string"/>
+    </element>
+</database>
