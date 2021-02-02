@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-02-01 23:51:39</sys_created_on>
-        <sys_id>d6a84d4ec7022010213be1d68dc26053</sys_id>
+        <sys_id>fdda5116c7c22010213be1d68dc2606b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_acer_appcustom_test</sys_name>
         <sys_package display_value="AppCustom" source="x_acer_appcustom">19a70d0ec7022010213be1d68dc2604d</sys_package>
         <sys_policy/>
         <sys_scope display_value="AppCustom">19a70d0ec7022010213be1d68dc2604d</sys_scope>
-        <sys_update_name>ua_table_licensing_config_d6a84d4ec7022010213be1d68dc26053</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_fdda5116c7c22010213be1d68dc2606b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-02-01 23:51:39</sys_updated_on>
     </ua_table_licensing_config>
