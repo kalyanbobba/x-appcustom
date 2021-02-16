@@ -2,29 +2,29 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>x_acer_appcustom.SI1</api_name>
+        <api_name>x_acer_appcustom.SI1R</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description>Desc</description>
-        <name>SI1</name>
-        <script><![CDATA[var SI1 = Class.create();
-SI1.prototype = {
+        <name>SI1R</name>
+        <script><![CDATA[var SI1R = Class.create();
+SI1R.prototype = {
     initialize: function() {
     },
 
-    type: 'SI1'
+    type: 'SI1R'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-02-01 23:51:55</sys_created_on>
         <sys_id>01b88d4ec7022010213be1d68dc26073</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>SI1</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>SI1R</sys_name>
         <sys_package display_value="AppCustom" source="x_acer_appcustom">19a70d0ec7022010213be1d68dc2604d</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="AppCustom">19a70d0ec7022010213be1d68dc2604d</sys_scope>
         <sys_update_name>sys_script_include_01b88d4ec7022010213be1d68dc26073</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-16 17:40:52</sys_updated_on>
+        <sys_updated_on>2021-02-16 17:42:11</sys_updated_on>
     </sys_script_include>
 </record_update>
